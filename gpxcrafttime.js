@@ -1,6 +1,6 @@
 var pointsArray = [];
 
-var emptyGPXStart = '<?xml version="1.0" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="__TODO__" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"><trk><trkseg>';
+var emptyGPXStart = '<?xml version="1.0" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nighto.github.io/gpxcrafttime/" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"><trk><trkseg>';
 var emptyGPXEnd = '</trkseg></trk></gpx>';
 
 function calculateDistance(x1, y1, x2, y2){
