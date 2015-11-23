@@ -21,3 +21,4 @@ If everything works smoothly, a file will be generated locally and then exported
 
 - Improve the GPX entry (accept KML file and OSM way number).
 - Add option to enter duration in seconds instead of end time
+- Allow user to input acceleration and deacceleration and interpolate the positions based on that (specially useful for subway trains)
