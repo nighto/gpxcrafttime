@@ -142,6 +142,7 @@ function handleGpxString(strGpx){
   var parser = new window.DOMParser();
   var xml = parser.parseFromString(strGpx, 'text/xml');
   var trkpts = xml.getElementsByTagName('trkpt');
+  pointsArray = [];
   handleTrkpts(trkpts);
 }
 
