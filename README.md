@@ -8,7 +8,7 @@ This script helps "crafting" a GPX file with valid timestamps (one point per sec
 To start, you must need a GPX with a track with no time information. You could to the following steps to get one:
 
 - Get the OSM way you want to work with (for example: http://www.openstreetmap.org/way/270082121)
-- Convert the OSM way to KML (for instance with http://nighto.github.io/ciclorio/dev/osm/)
+- Convert the OSM way to KML (for instance with https://nighto.github.io/ciclorio/antigo/dev/osm/)
 - Convert the KML to GPX (for instance with http://kml2gpx.com/)
 
 Then:
