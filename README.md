@@ -13,7 +13,7 @@ To start, you must need a GPX with a track with no time information. You could t
 
 Then:
 
-- Open http://nighto.github.com/gpxcrafttime, select the GPX file, enter the datetime information and press Calculate.
+- Open https://nighto.github.io/gpxcrafttime/, select the GPX file, enter the datetime information and press Calculate.
 
 If everything works smoothly, a file will be generated locally and then exported ("downloaded"). The file is processed on your browser, it's not uploaded to any server.
 
